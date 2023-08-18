@@ -1,3 +1,3 @@
-npm init -Y
+npm init -y
 
 npm install @types/node
